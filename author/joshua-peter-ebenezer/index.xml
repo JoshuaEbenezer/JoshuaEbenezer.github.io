@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joshua Peter Ebenezer | Academic</title>
+    <title>Joshua Peter Ebenezer | Joshua Ebenezer</title>
     <link>https://JoshuaEbenezer.github.io/author/joshua-peter-ebenezer/</link>
       <atom:link href="https://JoshuaEbenezer.github.io/author/joshua-peter-ebenezer/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua Peter Ebenezer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy2020 Joshua Peter Ebenezer</copyright>
     <image>
       <url>https://JoshuaEbenezer.github.io/media/joshua.jpeg</url>
       <title>Joshua Peter Ebenezer</title>
