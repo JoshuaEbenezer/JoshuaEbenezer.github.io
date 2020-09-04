@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joshua Ebenezer</title>
-    <link>https://JoshuaEbenezer.github.io/</link>
-      <atom:link href="https://JoshuaEbenezer.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Joshua Ebenezer</description>
+    <title>Zaixi Shang | Joshua Ebenezer</title>
+    <link>https://JoshuaEbenezer.github.io/author/zaixi-shang/</link>
+      <atom:link href="https://JoshuaEbenezer.github.io/author/zaixi-shang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zaixi Shang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy2020 Joshua Peter Ebenezer</copyright><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://JoshuaEbenezer.github.io/media/joshua.jpeg</url>
-      <title>Joshua Ebenezer</title>
-      <link>https://JoshuaEbenezer.github.io/</link>
+      <title>Zaixi Shang</title>
+      <link>https://JoshuaEbenezer.github.io/author/zaixi-shang/</link>
     </image>
     
     <item>
