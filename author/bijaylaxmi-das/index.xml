@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bijaylaxmi Das | Joshua Ebenezer</title>
+    <link>https://JoshuaEbenezer.github.io/author/bijaylaxmi-das/</link>
+      <atom:link href="https://JoshuaEbenezer.github.io/author/bijaylaxmi-das/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bijaylaxmi Das</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy2020 Joshua Peter Ebenezer</copyright><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JoshuaEbenezer.github.io/media/joshua.jpeg</url>
+      <title>Bijaylaxmi Das</title>
+      <link>https://JoshuaEbenezer.github.io/author/bijaylaxmi-das/</link>
+    </image>
+    
+    <item>
+      <title>No-Reference Video Quality Assessment Using Space-Time Chips</title>
+      <link>https://JoshuaEbenezer.github.io/publication/cwgan/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://JoshuaEbenezer.github.io/publication/cwgan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
