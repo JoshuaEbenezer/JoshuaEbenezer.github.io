@@ -21,11 +21,39 @@
     </item>
     
     <item>
+      <title>Video Quality Assessment using Space-Time chips</title>
+      <link>https://JoshuaEbenezer.github.io/projects/vqa/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://JoshuaEbenezer.github.io/projects/vqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Single Image Haze Removal Using Conditional Wasserstein Generative Adversarial Networks</title>
       <link>https://JoshuaEbenezer.github.io/publication/cwgan/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://JoshuaEbenezer.github.io/publication/cwgan/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Wasserstein Generative Adversarial Networks for Image Dehazing</title>
+      <link>https://JoshuaEbenezer.github.io/projects/cwgan/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://JoshuaEbenezer.github.io/projects/cwgan/</guid>
+      <description>&lt;p&gt;Project Supervisor: Professor Sudipta Mukhopadhyay&lt;/p&gt;
+&lt;p&gt;Achieved state-of-the-art results by training a conditional Wasserstein GAN using the pix2pix model for single image dehazing, with perceptual loss, MSE loss, L1 loss, and texture loss, on the D-Hazy and O-Haze fog datasets, using Pytorch as the programming library.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FPGA implementation of fog-removal using anisotropic diffusion.</title>
+      <link>https://JoshuaEbenezer.github.io/projects/fpga/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://JoshuaEbenezer.github.io/projects/fpga/</guid>
+      <description>&lt;p&gt;Project Supervisor: Professor Sudipta Mukhopadhyay&lt;/p&gt;
+&lt;p&gt;Achieved 200 fps processing speed in simulations of synthesizable code for Xilinx Zedboard FPGA for high-speed video processing to remove fog from images using anisotropic diffusion. Simulated and verified implementation from scratch on Vivado HLS, synthesized to RTL, and integrated blocks at the system level using Vivado IP integrator.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
