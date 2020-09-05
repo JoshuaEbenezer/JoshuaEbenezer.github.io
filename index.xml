@@ -41,7 +41,8 @@
       <link>https://JoshuaEbenezer.github.io/project/cwgan/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://JoshuaEbenezer.github.io/project/cwgan/</guid>
-      <description>&lt;p&gt;Project Supervisor: Professor Sudipta Mukhopadhyay&lt;/p&gt;
+      <description>&lt;p&gt;Project Supervisor: Professor 
+&lt;a href=&#34;http://www.iitkgp.ac.in/department/EC/faculty/ec-smukho&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sudipta Mukhopadhyay&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Achieved state-of-the-art results by training a conditional Wasserstein GAN using the pix2pix model for single image dehazing, with perceptual loss, MSE loss, L1 loss, and texture loss, on the D-Hazy and O-Haze fog datasets, using Pytorch as the programming library.&lt;/p&gt;
 </description>
     </item>
@@ -51,8 +52,20 @@
       <link>https://JoshuaEbenezer.github.io/project/fpga/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://JoshuaEbenezer.github.io/project/fpga/</guid>
-      <description>&lt;p&gt;Project Supervisor: Professor Sudipta Mukhopadhyay&lt;/p&gt;
+      <description>&lt;p&gt;Project Supervisor: Professor 
+&lt;a href=&#34;http://www.iitkgp.ac.in/department/EC/faculty/ec-smukho&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sudipta Mukhopadhyay&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Achieved 200 fps processing speed in simulations of synthesizable code for Xilinx Zedboard FPGA for high-speed video processing to remove fog from images using anisotropic diffusion. Simulated and verified implementation from scratch on Vivado HLS, synthesized to RTL, and integrated blocks at the system level using Vivado IP integrator.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning for skin lesion segmentation</title>
+      <link>https://JoshuaEbenezer.github.io/project/skin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://JoshuaEbenezer.github.io/project/skin/</guid>
+      <description>&lt;p&gt;Project Supervisor: Professor 
+&lt;a href=&#34;https://www.ntu.edu.sg/home/asjagath&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jagath Rajapakse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Proposed a novel algorithm for the segmentation of skin lesions. Developed an image pre-processing pipeline, a modified deep learning architecture, and a post-processing method that gave state of the art results and showed an improvement of 7% compared to training the network without pre-processing, using the Keras library with a Tensorflow backend.&lt;/p&gt;
 </description>
     </item>
     
