@@ -17,10 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
-    design:
-      background:
-        color: white
+        url: https://drive.google.com/file/d/1RbimxlPVxv_MTKS9eIrmaLZYxmW24oHj/view
   - block: collection
     id: papers
     content:
