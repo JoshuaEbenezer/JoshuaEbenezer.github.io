@@ -51,7 +51,7 @@ work:
     company_name: Samsung Research America
     company_url: 'https://sra.samsung.com/'
     company_logo: ''
-    date_start: 2025-03
+    date_start: '2025-03'
     date_end: ''
     summary: |
       Working on commercial camera projects and Generative AI for Samsung Flagship Phones
@@ -59,20 +59,20 @@ work:
     company_name: Samsung Research America
     company_url: 'https://sra.samsung.com/'
     company_logo: ''
-    date_start: 2023-07-11
-    date_end: 2025-03
+    date_start: '2023-07'
+    date_end: '2025-03'
   - position: Assistant Director
-  company_name: Laboratory of Image and Video Engineering at UT Austin
-  company_url: https://live.ece.utexas.edu/index.php
-  company_logo: ''
-  location: Austin, Texas
-  date_start: 2020-08
-  date_end: ''
-  summary: |
-    Responsibilities included:
-    - Managing servers, equipment and resources for the lab.
-    - Teaching Digital Image Processing and Digital Video Processing classes.
-    - Representing the lab at meetings with sponsors and UT.
+    company_name: Laboratory of Image and Video Engineering at UT Austin
+    company_url: https://live.ece.utexas.edu/index.php
+    company_logo: ''
+    location: Austin, Texas
+    date_start: 2020-08
+    date_end: ''
+    summary: |
+      Responsibilities included:
+      - Managing servers, equipment and resources for the lab.
+      - Teaching Digital Image Processing and Digital Video Processing classes.
+      - Representing the lab at meetings with sponsors and UT.
   - position: Applied Science Intern
     company_name: Amazon Prime Video
     company_url: https://www.primevideo.com/
