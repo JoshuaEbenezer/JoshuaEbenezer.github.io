@@ -119,7 +119,7 @@ profiles:
     link: 'mailto:joshuapeterebenezer@gmail.com'  # For a direct email link, use "mailto:test@example.org".
   - icon: brands/linkedin 
     link: https://www.linkedin.com/in/joshua-peter-ebenezer
-  - icon: academicicons/google-scholar
+  - icon: academicons/google-scholar
     link: https://scholar.google.co.in/citations?user=xbQZ-PUAAAAJ&hl=en
   - icon: brands/github
     link: https://github.com/JoshuaEbenezer
