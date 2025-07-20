@@ -56,18 +56,11 @@ work:
     summary: |
       Working on commercial camera projects and Generative AI for Samsung Flagship Phones
   - position: Senior Research Engineer
-    company_name: X
-    company_url: ''
+    company_name: Samsung Research America
+    company_url: 'https://sra.samsung.com/'
     company_logo: ''
     date_start: 2023-07-11
     date_end: 2025-03
-  - position: Senior Research Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-07-11
-    date_end: 2025-03
-  
   - position: Assistant Director
   company_name: Laboratory of Image and Video Engineering at UT Austin
   company_url: https://live.ece.utexas.edu/index.php
@@ -80,7 +73,6 @@ work:
     - Managing servers, equipment and resources for the lab.
     - Teaching Digital Image Processing and Digital Video Processing classes.
     - Representing the lab at meetings with sponsors and UT.
-
   - position: Applied Science Intern
     company_name: Amazon Prime Video
     company_url: https://www.primevideo.com/
@@ -91,7 +83,6 @@ work:
     summary: |
       Conducted a video quality study of low bitrates and multiple frame rates and resolutions with 750 videos and 95 participants.
       Mentor: Dr. Yongjun Wu, Dr. Hai Wei, Dr. Sriram Sethuraman
-
   - position: Applied Science Intern
     company_name: Amazon Prime Video
     company_url: https://www.primevideo.com/
@@ -102,7 +93,6 @@ work:
     summary: |
       Developed a model to detect A/V Synchronization errors in tennis videos using audio and video 'special event' detectors built as deep learning networks.
       Mentors: Dr. Yongjun Wu, Dr. Hai Wei, Dr. Sriram Sethuraman
-
   - position: Research Intern
     company_name: Nanyang Technological University
     company_url: https://www.ntu.edu.sg/
