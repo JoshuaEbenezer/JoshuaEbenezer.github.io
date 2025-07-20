@@ -115,26 +115,14 @@ work:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 profiles:
-- icon: envelope
-  icon_pack: fas
+- icon: at-symbol
   link: 'mailto:joshuapeterebenezer@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin 
-  icon_pack: fab
+- icon: brands/linkedin 
   link: https://www.linkedin.com/in/joshua-peter-ebenezer
-- icon: google-scholar
-  icon_pack: ai
+- icon: academicicons/google-scholar
   link: https://scholar.google.co.in/citations?user=xbQZ-PUAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
+- icon: brands/github
   link: https://github.com/JoshuaEbenezer
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://drive.google.com/file/d/1RbimxlPVxv_MTKS9eIrmaLZYxmW24oHj/view?usp=drive_link 
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
