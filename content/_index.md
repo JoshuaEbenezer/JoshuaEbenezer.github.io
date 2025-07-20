@@ -18,6 +18,8 @@ sections:
       button:
         text: Download CV
         url: https://drive.google.com/file/d/1RbimxlPVxv_MTKS9eIrmaLZYxmW24oHj/view
+    design:
+      css_class: light
   - block: collection
     id: papers
     content:
