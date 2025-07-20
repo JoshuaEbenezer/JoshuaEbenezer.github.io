@@ -1,7 +1,7 @@
 ---
 title: Online-learning based video reconstruction for adaptive bitrate video streaming 
 summary: Used the temporal self-similarity in streaming videos to reconstruct frames sent when the channel is poor.
-date: "2021"
+date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

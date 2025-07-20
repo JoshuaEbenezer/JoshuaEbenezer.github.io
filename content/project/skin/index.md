@@ -1,7 +1,7 @@
 ---
 title: Deep learning for skin lesion segmentation
 summary: Proposed novel pre-processing techniques to improve identification of cancerous regions in the skin with deep learning. 
-date: "2018"
+date: "2018-06-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

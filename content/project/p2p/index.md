@@ -1,7 +1,7 @@
 ---
 title: Peer-to-Peer Live Streaming with Recommender Systems 
 summary:  Studied optimal load distributions and asymptotic behaviour of P2P systems when used with recommenders.
-date: "2021"
+date: "2021-01-01"
 
 
 image:

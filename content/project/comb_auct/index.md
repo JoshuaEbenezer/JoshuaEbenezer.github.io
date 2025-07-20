@@ -1,7 +1,7 @@
 ---
 title: A Survey of Combinatorial Auctions
 summary: Performed an extensive survey of Combinatorial Auctions. 
-date: "2021"
+date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
