@@ -115,14 +115,14 @@ work:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 profiles:
-- icon: at-symbol
-  link: 'mailto:joshuapeterebenezer@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: brands/linkedin 
-  link: https://www.linkedin.com/in/joshua-peter-ebenezer
-- icon: academicicons/google-scholar
-  link: https://scholar.google.co.in/citations?user=xbQZ-PUAAAAJ&hl=en
-- icon: brands/github
-  link: https://github.com/JoshuaEbenezer
+  - icon: at-symbol
+    link: 'mailto:joshuapeterebenezer@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  - icon: brands/linkedin 
+    link: https://www.linkedin.com/in/joshua-peter-ebenezer
+  - icon: academicicons/google-scholar
+    link: https://scholar.google.co.in/citations?user=xbQZ-PUAAAAJ&hl=en
+  - icon: brands/github
+    link: https://github.com/JoshuaEbenezer
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
